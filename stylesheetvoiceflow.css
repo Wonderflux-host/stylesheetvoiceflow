@@ -1,3 +1,8 @@
-.vfrc-chat {
-  background-color: #228B22;
+.vfrc-input {
+  background-color: #ffffff;
+  color: #06402B;
+}
+
+.vfrc-input::placeholder {
+  color: #9DC183;
 }
