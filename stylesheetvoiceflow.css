@@ -1,8 +1,22 @@
 .vfrc-input {
-  background-color: #ffffff;
+  background-color: #9DC183;;
   color: #06402B;
 }
 
 .vfrc-input::placeholder {
   color: #9DC183;
+}
+/*
+  FOOTER
+
+  Customize the layout and appearance of the message input field and the VF Branding
+*/
+
+/* Targets the text input field where the user types */
+.vfrc-input {
+  /* Changes the color of the text you type to dark green */
+  color: #006400;
+
+  /* Optional: Uncomment the line below to change the border color too */
+  border-color: #006400; */
 }
